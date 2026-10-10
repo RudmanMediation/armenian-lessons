@@ -1,0 +1,3806 @@
+{
+ "11": [
+  {
+   "type": "narrator",
+   "text": "This is Lesson 11 of Western Armenian. Listen to this conversation. Aram and Sona are friends, and they're deciding where to eat.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Sona, guzes miasin udel?",
+   "armenian": "Սօնա, կ'ուզե՞ս միասին ուտել։",
+   "meaning": "Sona, do you want to eat together?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "63ec43358b"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ayo, guzem. Ur?",
+   "armenian": "Այո, կ'ուզեմ։ Ո՞ւր։",
+   "meaning": "Yes, I want to. Where?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "3dca2c7ceb"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Jasharan me, hos mod.",
+   "armenian": "Ճաշարան մը, հոս մօտ։",
+   "meaning": "A restaurant, near here.",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "2405f15646"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Heru ché?",
+   "armenian": "Հեռու չէ՞։",
+   "meaning": "Isn't it far?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "ca015620ce"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Voch, heru ché. Mod é. Hon, tsakh.",
+   "armenian": "Ոչ, հեռու չէ։ Մօտ է։ Հոն, ձախ։",
+   "meaning": "No, it's not far. It's close. There, on the left.",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "123412f41b"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Kani é?",
+   "armenian": "Քանի՞ է։",
+   "meaning": "How much is it?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "7e5460af6a"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Dase dolar.",
+   "armenian": "Տասը տոլար։",
+   "meaning": "Ten dollars.",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "1f341cdf0e"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Tram unis?",
+   "armenian": "Դրամ ունի՞ս։",
+   "meaning": "Do you have money?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "004e70382f"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ayo, tram unim.",
+   "armenian": "Այո, դրամ ունիմ։",
+   "meaning": "Yes, I have money.",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "4b35b17254"
+  },
+  {
+   "type": "narrator",
+   "text": "Aram asked Sona if she wanted to eat together. Listen.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Guzes miasin udel?",
+   "armenian": "Կ'ուզե՞ս միասին ուտել։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "daf1394103"
+  },
+  {
+   "type": "narrator",
+   "text": "The word for \"together\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "miasin",
+   "armenian": "միասին",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "c48299585d"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part after him, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "sin",
+   "piece": true,
+   "word": "miasin",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "7d14c04a71"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "asin",
+   "piece": true,
+   "word": "miasin",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "f6b3e9a143"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "miasin",
+   "piece": true,
+   "word": "miasin",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "c48299585d"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "miasin",
+   "piece": true,
+   "word": "miasin",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "c48299585d"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"Do you want to eat together?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Guzes miasin udel?",
+   "armenian": "Կ'ուզե՞ս միասին ուտել։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "daf1394103"
+  },
+  {
+   "type": "narrator",
+   "text": "Say it again.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Guzes miasin udel?",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "daf1394103"
+  },
+  {
+   "type": "narrator",
+   "text": "Now ask, \"Do you want to drink together?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Guzes miasin khemel?",
+   "armenian": "Կ'ուզե՞ս միասին խմել։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "42ce34ed4c"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Yes, I want to.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ayo, guzem.",
+   "armenian": "Այո, կ'ուզեմ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "017da60dd0"
+  },
+  {
+   "type": "narrator",
+   "text": "Sona asked \"Where?\" How do you say \"Where?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ur?",
+   "armenian": "Ո՞ւր։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "0393d1b818"
+  },
+  {
+   "type": "narrator",
+   "text": "Do you remember how to say \"here\"?",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "hos",
+   "armenian": "հոս",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "360d20736e"
+  },
+  {
+   "type": "narrator",
+   "text": "\"Near\" or \"close\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "mod",
+   "armenian": "մօտ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "7dd30f0a95"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "mod",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "7dd30f0a95"
+  },
+  {
+   "type": "narrator",
+   "text": "To say \"near here,\" Armenian puts \"here\" first: \"here near.\" Listen and repeat.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "hos mod",
+   "piece": true,
+   "word": "hos mod",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "ca9de54f27"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "hos mod",
+   "piece": true,
+   "word": "hos mod",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "ca9de54f27"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"A restaurant, near here.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Jasharan me, hos mod.",
+   "armenian": "Ճաշարան մը, հոս մօտ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "2405f15646"
+  },
+  {
+   "type": "narrator",
+   "text": "Sona asked, \"Isn't it far?\" The word for \"far\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "heru",
+   "armenian": "հեռու",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "2ed1ca789f"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "ru",
+   "piece": true,
+   "word": "heru",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "67b8b1c4fe"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "heru",
+   "piece": true,
+   "word": "heru",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "2ed1ca789f"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "heru",
+   "piece": true,
+   "word": "heru",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "2ed1ca789f"
+  },
+  {
+   "type": "narrator",
+   "text": "How do you say \"It's far\"?",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Heru é.",
+   "armenian": "Հեռու է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "8b1a374865"
+  },
+  {
+   "type": "narrator",
+   "text": "And \"It's not far.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Heru ché.",
+   "armenian": "Հեռու չէ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "56f85e8d79"
+  },
+  {
+   "type": "narrator",
+   "text": "Now \"It's close.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Mod é.",
+   "armenian": "Մօտ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "b9c86fb073"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"Is it far?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Heru é?",
+   "armenian": "Հեռու է՞։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "555c22f25c"
+  },
+  {
+   "type": "narrator",
+   "text": "Tell her, \"No, it's not far. It's close.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Voch, heru ché. Mod é.",
+   "armenian": "Ոչ, հեռու չէ։ Մօտ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Together,\" \"near,\" \"far\"",
+   "id": "7baa49ba9a"
+  },
+  {
+   "type": "narrator",
+   "text": "Aram told Sona where the restaurant was: \"There, on the left.\" You know \"there.\" Say it.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "hon",
+   "armenian": "հոն",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "79e666b5ef"
+  },
+  {
+   "type": "narrator",
+   "text": "\"Left\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "tsakh",
+   "armenian": "ձախ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "859c7d3269"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "akh",
+   "piece": true,
+   "word": "tsakh",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "a461fc1b17"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "tsakh",
+   "piece": true,
+   "word": "tsakh",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "859c7d3269"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "tsakh",
+   "piece": true,
+   "word": "tsakh",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "859c7d3269"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"There, on the left.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Hon, tsakh.",
+   "armenian": "Հոն, ձախ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "017984ac44"
+  },
+  {
+   "type": "narrator",
+   "text": "\"Right,\" as in the direction, is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "ach",
+   "armenian": "աջ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "1f8a77297b"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "ach",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": true,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "1f8a77297b"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"There, on the right.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Hon, ach.",
+   "armenian": "Հոն, աջ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "078b2f1428"
+  },
+  {
+   "type": "narrator",
+   "text": "You know how to say \"the Ararat restaurant.\" Say it.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ararad jasharane",
+   "armenian": "Արարատ ճաշարանը",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "f0b935804f"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask, \"Where is the Ararat restaurant?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ararad jasharane ur é?",
+   "armenian": "Արարատ ճաշարանը ո՞ւր է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "810d032b5b"
+  },
+  {
+   "type": "narrator",
+   "text": "Tell her, \"It's close, on the left.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Mod é, tsakh.",
+   "armenian": "Մօտ է, ձախ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "06f07647ef"
+  },
+  {
+   "type": "narrator",
+   "text": "She asks you again. Answer, \"There, on the right.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Hon, ach.",
+   "armenian": "Հոն, աջ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "078b2f1428"
+  },
+  {
+   "type": "narrator",
+   "text": "How do you say \"left\"?",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "tsakh",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "859c7d3269"
+  },
+  {
+   "type": "narrator",
+   "text": "And \"right\"?",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "ach",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Left\" and \"right\"",
+   "id": "1f8a77297b"
+  },
+  {
+   "type": "narrator",
+   "text": "Sona asked, \"How much is it?\" Listen.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Kani é?",
+   "armenian": "Քանի՞ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "7e5460af6a"
+  },
+  {
+   "type": "narrator",
+   "text": "You've heard \"kani\" before, in \"zhame kaniin,\" \"at what time?\" \"Kani\" means \"how much\" or \"how many.\" Repeat each part.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "ni",
+   "piece": true,
+   "word": "Kani é?",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "c5f2aaa81d"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "kani",
+   "piece": true,
+   "word": "Kani é?",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "426eb561b8"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Kani é?",
+   "piece": true,
+   "word": "Kani é?",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "7e5460af6a"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask, \"How much is it?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Kani é?",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "7e5460af6a"
+  },
+  {
+   "type": "narrator",
+   "text": "Aram said, \"Ten dollars.\" The word for \"ten\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "dase",
+   "armenian": "տասը",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "acd7c30848"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "se",
+   "piece": true,
+   "word": "dase",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "00762ccfa7"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "dase",
+   "piece": true,
+   "word": "dase",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "acd7c30848"
+  },
+  {
+   "type": "narrator",
+   "text": "\"Dollar\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "dolar",
+   "armenian": "տոլար",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "1e5e698023"
+  },
+  {
+   "type": "narrator",
+   "text": "Armenian doesn't add an \"s\" after a number. Say, \"ten dollars.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Dase dolar.",
+   "armenian": "Տասը տոլար։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "1f341cdf0e"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"Five dollars.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Hink dolar.",
+   "armenian": "Հինգ տոլար։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "2502c47489"
+  },
+  {
+   "type": "narrator",
+   "text": "Now \"Eight dollars.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ut dolar.",
+   "armenian": "Ութ տոլար։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "e653bed477"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask, \"How much is it?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Kani é?",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "7e5460af6a"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Nine dollars.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Inn dolar.",
+   "armenian": "Ինը տոլար։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "8530eb55b4"
+  },
+  {
+   "type": "narrator",
+   "text": "The word for \"money\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "tram",
+   "armenian": "դրամ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "aaf2dd3482"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "am",
+   "piece": true,
+   "word": "tram",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "96e8155732"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "tram",
+   "piece": true,
+   "word": "tram",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "aaf2dd3482"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "tram",
+   "piece": true,
+   "word": "tram",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "aaf2dd3482"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"Do you have money?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Tram unis?",
+   "armenian": "Դրամ ունի՞ս։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "004e70382f"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Yes, I have money.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ayo, tram unim.",
+   "armenian": "Այո, դրամ ունիմ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "4b35b17254"
+  },
+  {
+   "type": "narrator",
+   "text": "Now say, \"I don't have money.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Tram chunim.",
+   "armenian": "Դրամ չունիմ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "4a0c40cc30"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"How much money do you have?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Kani tram unis?",
+   "armenian": "Քանի՞ դրամ ունիս։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "9cbb459481"
+  },
+  {
+   "type": "narrator",
+   "text": "Tell her, \"Ten dollars.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Dase dolar.",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"How much?\" and money",
+   "id": "1f341cdf0e"
+  },
+  {
+   "type": "narrator",
+   "text": "In earlier lessons you learned to speak politely, the way you'd talk to an elder, a stranger, or a group. With a friend, Armenians talk more casually. Listen to how you ask a friend \"How are you?\"",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Inchbés es?",
+   "armenian": "Ինչպէ՞ս ես։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Talking to a friend",
+   "id": "1c15e16de3"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Inchbés es?",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Talking to a friend",
+   "id": "1c15e16de3"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"I'm fine.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Lav em.",
+   "armenian": "Լաւ եմ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Talking to a friend",
+   "id": "804341a6f1"
+  },
+  {
+   "type": "narrator",
+   "text": "To a friend, \"you\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "tun",
+   "armenian": "դուն",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Talking to a friend",
+   "id": "72fec05ee2"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "tun",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Talking to a friend",
+   "id": "72fec05ee2"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"I'm fine. And you?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Lav em. Tun?",
+   "armenian": "Լաւ եմ։ Դուն՞։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Talking to a friend",
+   "id": "49d88081c1"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"Do you understand?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ge hasgenas?",
+   "armenian": "Կը հասկնա՞ս։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Talking to a friend",
+   "id": "7e65a68a5b"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Yes, I understand a little.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ayo, kich me ge hasgenam.",
+   "armenian": "Այո, քիչ մը կը հասկնամ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Talking to a friend",
+   "id": "ddf7c43229"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"What do you want to eat?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Inch guzes udel?",
+   "armenian": "Ի՞նչ կ'ուզես ուտել։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Talking to a friend",
+   "id": "08df17771c"
+  },
+  {
+   "type": "narrator",
+   "text": "You learned \"Esek,\" \"Tell me,\" the polite way. To a friend, you say…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Esé",
+   "armenian": "Ըսէ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Talking to a friend",
+   "id": "3c70151a9f"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Esé",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Talking to a friend",
+   "id": "3c70151a9f"
+  },
+  {
+   "type": "narrator",
+   "text": "Say to your friend, \"Tell me, how much is it?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Esé, kani é?",
+   "armenian": "Ըսէ, քանի՞ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Talking to a friend",
+   "id": "47c762f8eb"
+  },
+  {
+   "type": "narrator",
+   "text": "You know how to ask \"At what time?\" Ask it.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Zhame kaniin?",
+   "armenian": "Ժամը քանիի՞ն։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 6 — At what time?",
+   "id": "64a69af62a"
+  },
+  {
+   "type": "narrator",
+   "text": "Here's how to say \"we will eat.\"",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "bidi udenk",
+   "armenian": "պիտի ուտենք",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 6 — At what time?",
+   "id": "59a9ba4cfe"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "denk",
+   "piece": true,
+   "word": "bidi udenk",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 6 — At what time?",
+   "id": "6222e5e705"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "udenk",
+   "piece": true,
+   "word": "bidi udenk",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 6 — At what time?",
+   "id": "dd7630b8d3"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "bidi udenk",
+   "piece": true,
+   "word": "bidi udenk",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 6 — At what time?",
+   "id": "59a9ba4cfe"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask Sona, \"At what time will we eat together?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Zhame kaniin bidi udenk miasin?",
+   "armenian": "Ժամը քանիի՞ն պիտի ուտենք միասին։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 6 — At what time?",
+   "id": "f036e1695d"
+  },
+  {
+   "type": "narrator",
+   "text": "She says, \"At eight.\"",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Zhame utin.",
+   "armenian": "Ժամը ութին։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 6 — At what time?",
+   "id": "d429821cac"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"At eight or at nine?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Zhame utin, gam innin?",
+   "armenian": "Ժամը ութին, կամ իննի՞ն։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 6 — At what time?",
+   "id": "20a442db88"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask her, \"Do you want to eat with me at eight?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Guzes zhame utin hedes udel?",
+   "armenian": "Կ'ուզե՞ս ժամը ութին հետս ուտել։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 6 — At what time?",
+   "id": "cbd6affc59"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Yes, I want to. Where?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ayo, guzem. Ur?",
+   "armenian": "Այո, կ'ուզեմ։ Ո՞ւր։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 6 — At what time?",
+   "id": "3dca2c7ceb"
+  },
+  {
+   "type": "narrator",
+   "text": "Tell her, \"The Ararat restaurant. It's close.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ararad jasharane. Mod é.",
+   "armenian": "Արարատ ճաշարանը։ Մօտ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 6 — At what time?",
+   "id": "94f978c0a5"
+  },
+  {
+   "type": "narrator",
+   "text": "How do you say \"together\"?",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "miasin",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Quick review",
+   "id": "c48299585d"
+  },
+  {
+   "type": "narrator",
+   "text": "\"far\"?",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "heru",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Quick review",
+   "id": "2ed1ca789f"
+  },
+  {
+   "type": "narrator",
+   "text": "\"near\"?",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "mod",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Quick review",
+   "id": "7dd30f0a95"
+  },
+  {
+   "type": "narrator",
+   "text": "\"money\"?",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "tram",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Quick review",
+   "id": "aaf2dd3482"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask, \"How much is it?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Kani é?",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Quick review",
+   "id": "7e5460af6a"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"Do you want to drink something together?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Guzes miasin pan me khemel?",
+   "armenian": "Կ'ուզե՞ս միասին բան մը խմել։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Quick review",
+   "id": "bc57ad3c36"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"It's not far. It's on the right.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Heru ché. Hon, ach.",
+   "armenian": "Հեռու չէ։ Հոն, աջ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Quick review",
+   "id": "41c008065a"
+  },
+  {
+   "type": "narrator",
+   "text": "Listen to the conversation from the start of the lesson one more time. This time, you'll understand every word.",
+   "pause": false
+  },
+  {
+   "type": "replay_dialog"
+  },
+  {
+   "type": "narrator",
+   "text": "This is the end of Lesson 11.",
+   "pause": false
+  }
+ ],
+ "12": [
+  {
+   "type": "narrator",
+   "text": "This is Lesson 12 of Western Armenian. Listen to this conversation. Aram and Sona are at a café.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Sona, inch guzes khemel?",
+   "armenian": "Սօնա, ի՞նչ կ'ուզես խմել։",
+   "meaning": "Sona, what do you want to drink?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "a509e333a8"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Surj me guzem. Tun?",
+   "armenian": "Սուրճ մը կ'ուզեմ։ Դո՞ւն։",
+   "meaning": "I want a coffee. You?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "66899f1138"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Yes al surj guzem.",
+   "armenian": "Ես ալ սուրճ կ'ուզեմ։",
+   "meaning": "I want coffee too.",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "8de9b6f61e"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Yergu surj, khntrem. Kani é?",
+   "armenian": "Երկու սուրճ, խնդրեմ։ Քանի՞ է։",
+   "meaning": "Two coffees, please. How much is it?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "9f9e263805"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Dasnergu dolar.",
+   "armenian": "Տասներկու տոլար։",
+   "meaning": "Twelve dollars.",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "8017ffaaf2"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Dasnergu dolar? Shad sugh é!",
+   "armenian": "Տասներկու տոլա՞ր։ Շատ սուղ է։",
+   "meaning": "Twelve dollars? That's very expensive!",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "d49a37655e"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Voch, sugh ché. Hos amen pan sugh é.",
+   "armenian": "Ոչ, սուղ չէ։ Հոս ամէն բան սուղ է։",
+   "meaning": "No, it's not expensive. Everything here is expensive.",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "8f7b5ae481"
+  },
+  {
+   "type": "narrator",
+   "text": "Aram asked Sona what she wanted to drink. Ask your friend, \"What do you want to drink?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Inch guzes khemel?",
+   "armenian": "Ի՞նչ կ'ուզես խմել։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "740b6d8085"
+  },
+  {
+   "type": "narrator",
+   "text": "Sona wanted coffee. The word for \"coffee\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "surj",
+   "armenian": "սուրճ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "4de1dd9f49"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "urj",
+   "piece": true,
+   "word": "surj",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "fcbfc9b0ad"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "surj",
+   "piece": true,
+   "word": "surj",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "4de1dd9f49"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "surj",
+   "piece": true,
+   "word": "surj",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "4de1dd9f49"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"I want a coffee.\" Remember \"a\" or \"one\" comes after the word: \"coffee a.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Surj me guzem.",
+   "armenian": "Սուրճ մը կ'ուզեմ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "bc009e991f"
+  },
+  {
+   "type": "narrator",
+   "text": "Now ask your friend, \"Do you want a coffee?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Surj me guzes?",
+   "armenian": "Սուրճ մը կ'ուզե՞ս։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "aa34299799"
+  },
+  {
+   "type": "narrator",
+   "text": "Aram said he wanted coffee too. \"Too\" or \"also\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "al",
+   "armenian": "ալ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "2f9ee2b336"
+  },
+  {
+   "type": "narrator",
+   "text": "\"Me too\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Yes al.",
+   "armenian": "Ես ալ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "e0f279105c"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Yes al.",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "e0f279105c"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"I want coffee too.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Yes al surj guzem.",
+   "armenian": "Ես ալ սուրճ կ'ուզեմ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "8de9b6f61e"
+  },
+  {
+   "type": "narrator",
+   "text": "Your friend says she wants to eat. Tell her, \"Me too.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Yes al.",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "e0f279105c"
+  },
+  {
+   "type": "narrator",
+   "text": "Aram ordered two coffees. You know \"two.\" Say it.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "yergu",
+   "armenian": "երկու",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "714b873548"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"two coffees.\" Armenian doesn't add an \"s\" after a number.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "yergu surj",
+   "armenian": "երկու սուրճ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "9ab42f2302"
+  },
+  {
+   "type": "narrator",
+   "text": "To be polite when you order, you add \"please.\"",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "khntrem",
+   "armenian": "խնդրեմ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "806280ec86"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "trem",
+   "piece": true,
+   "word": "khntrem",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "b727f035ae"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "khntrem",
+   "piece": true,
+   "word": "khntrem",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "806280ec86"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "khntrem",
+   "piece": true,
+   "word": "khntrem",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "806280ec86"
+  },
+  {
+   "type": "narrator",
+   "text": "Order two coffees, please.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Yergu surj, khntrem.",
+   "armenian": "Երկու սուրճ, խնդրեմ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "7925bf361e"
+  },
+  {
+   "type": "narrator",
+   "text": "Now order one coffee, please.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Meg surj, khntrem.",
+   "armenian": "Մէկ սուրճ, խնդրեմ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Coffee,\" \"too,\" \"please\"",
+   "id": "8b5f117e33"
+  },
+  {
+   "type": "narrator",
+   "text": "You know \"ten.\" Say it.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "dase",
+   "armenian": "տասը",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "acd7c30848"
+  },
+  {
+   "type": "narrator",
+   "text": "Armenian builds eleven to nineteen from \"ten\" plus the number. Eleven is \"ten-one.\"",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "dasnemeg",
+   "armenian": "տասնըմէկ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "4ffe7a90b4"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "meg",
+   "piece": true,
+   "word": "dasnemeg",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "8fdc871351"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "dasnemeg",
+   "piece": true,
+   "word": "dasnemeg",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "4ffe7a90b4"
+  },
+  {
+   "type": "narrator",
+   "text": "\"Twelve\" is \"ten-two.\"",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "dasnergu",
+   "armenian": "տասներկու",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "c4f811bb90"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "dasnergu",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "c4f811bb90"
+  },
+  {
+   "type": "narrator",
+   "text": "How do you say \"two\"?",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "yergu",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "714b873548"
+  },
+  {
+   "type": "narrator",
+   "text": "And \"twelve\"?",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "dasnergu",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "c4f811bb90"
+  },
+  {
+   "type": "narrator",
+   "text": "Now \"fifteen.\" You know \"five.\"",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "dasnehink",
+   "armenian": "տասնըհինգ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "562b1a8067"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "dasnehink",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "562b1a8067"
+  },
+  {
+   "type": "narrator",
+   "text": "Try \"eighteen.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "dasneut",
+   "armenian": "տասնըութ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "2719f695b9"
+  },
+  {
+   "type": "narrator",
+   "text": "\"Twenty\" is a new word.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "ksan",
+   "armenian": "քսան",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "5f07c96881"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "ksan",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "5f07c96881"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"Twelve dollars.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Dasnergu dolar.",
+   "armenian": "Տասներկու տոլար։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "8017ffaaf2"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"Twenty dollars.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ksan dolar.",
+   "armenian": "Քսան տոլար։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "e0d16f8533"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask, \"How much is it?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Kani é?",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "7e5460af6a"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Fifteen dollars.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Dasnehink dolar.",
+   "armenian": "Տասնըհինգ տոլար։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — Numbers from ten to twenty",
+   "id": "1e7894a1d0"
+  },
+  {
+   "type": "narrator",
+   "text": "Aram thought twelve dollars was a lot. He said, \"It's very expensive.\" \"Expensive\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "sugh",
+   "armenian": "սուղ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "3db3c891b4"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "ugh",
+   "piece": true,
+   "word": "sugh",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "d3c26052ae"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "sugh",
+   "piece": true,
+   "word": "sugh",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "3db3c891b4"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "sugh",
+   "piece": true,
+   "word": "sugh",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "3db3c891b4"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"It's expensive.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Sugh é.",
+   "armenian": "Սուղ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "d2c566e4b3"
+  },
+  {
+   "type": "narrator",
+   "text": "You know \"very\" from \"shad lav,\" \"very good.\" Say, \"It's very expensive.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Shad sugh é.",
+   "armenian": "Շատ սուղ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "992c346151"
+  },
+  {
+   "type": "narrator",
+   "text": "Sona said, \"No, it's not expensive.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Voch, sugh ché.",
+   "armenian": "Ոչ, սուղ չէ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "4638cac208"
+  },
+  {
+   "type": "narrator",
+   "text": "\"Cheap\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "azhan",
+   "armenian": "աժան",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "bf554762f3"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "zhan",
+   "piece": true,
+   "word": "azhan",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "9ac5dda308"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "azhan",
+   "piece": true,
+   "word": "azhan",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "bf554762f3"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "azhan",
+   "piece": true,
+   "word": "azhan",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "bf554762f3"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"It's cheap.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Azhan é.",
+   "armenian": "Աժան է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "51b61fc078"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask, \"Is it cheap?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Azhan é?",
+   "armenian": "Աժա՞ն է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "2870b7e768"
+  },
+  {
+   "type": "narrator",
+   "text": "Tell your friend, \"No, it's very expensive. Twenty dollars.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Voch, shad sugh é. Ksan dolar.",
+   "armenian": "Ոչ, շատ սուղ է։ Քսան տոլար։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "513292d847"
+  },
+  {
+   "type": "narrator",
+   "text": "Sona said everything here is expensive. \"Everything\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "amen pan",
+   "armenian": "ամէն բան",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "f025496054"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "amen pan",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "f025496054"
+  },
+  {
+   "type": "narrator",
+   "text": "You know \"pan\" from \"pan me,\" \"something.\" Say, \"Everything is expensive.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Amen pan sugh é.",
+   "armenian": "Ամէն բան սուղ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "dd27b4b031"
+  },
+  {
+   "type": "narrator",
+   "text": "Now, \"Everything here is expensive.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Hos amen pan sugh é.",
+   "armenian": "Հոս ամէն բան սուղ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Expensive\" and \"cheap\"",
+   "id": "fc9ef55a7c"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"Do you want to eat together?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Guzes miasin udel?",
+   "armenian": "Կ'ուզե՞ս միասին ուտել։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Review",
+   "id": "daf1394103"
+  },
+  {
+   "type": "narrator",
+   "text": "Tell her, \"Yes, but later.\" Use \"hedo\" for \"later.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ayo, payts hedo.",
+   "armenian": "Այո, բայց յետոյ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Review",
+   "id": "30938314ff"
+  },
+  {
+   "type": "narrator",
+   "text": "\"But\" is \"payts.\" Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "payts",
+   "armenian": "բայց",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Review",
+   "id": "8820f2f42e"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask her, \"Is the restaurant far?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Jasharane heru é?",
+   "armenian": "Ճաշարանը հեռո՞ւ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Review",
+   "id": "efd4d82c5a"
+  },
+  {
+   "type": "narrator",
+   "text": "Tell him, \"No, it's close. There, on the right.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Voch, mod é. Hon, ach.",
+   "armenian": "Ոչ, մօտ է։ Հոն, աջ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Review",
+   "id": "8ed870361f"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask, \"Do you have money?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Tram unis?",
+   "armenian": "Դրամ ունի՞ս։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Review",
+   "id": "004e70382f"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Yes, I have twenty dollars.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ayo, ksan dolar unim.",
+   "armenian": "Այո, քսան տոլար ունիմ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Review",
+   "id": "fb4d6e2fdd"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"Coffee or wine?\" Use \"te\" for \"or\" in a question.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Surj, te kini?",
+   "armenian": "Սուրճ, թէ գինի՞։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Review",
+   "id": "4f751a8a15"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Wine, please.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Kini, khntrem.",
+   "armenian": "Գինի, խնդրեմ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Review",
+   "id": "14f7e5c102"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask, \"At what time?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Zhame kaniin?",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Review",
+   "id": "64a69af62a"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"At eight. Is that okay?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Zhame utin. Lav é?",
+   "armenian": "Ժամը ութին։ Լա՞ւ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Review",
+   "id": "568f1a5bbf"
+  },
+  {
+   "type": "narrator",
+   "text": "Tell her, \"Yes, very good.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ayo, shad lav.",
+   "armenian": "Այո, շատ լաւ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — Review",
+   "id": "991b4c8fc5"
+  },
+  {
+   "type": "narrator",
+   "text": "Listen to the conversation from the start of the lesson one more time.",
+   "pause": false
+  },
+  {
+   "type": "replay_dialog"
+  },
+  {
+   "type": "narrator",
+   "text": "This is the end of Lesson 12.",
+   "pause": false
+  }
+ ],
+ "13": [
+  {
+   "type": "narrator",
+   "text": "This is Lesson 13 of Western Armenian. Listen to this conversation. Aram meets Sona in the street.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Parev Sona. Ur gertas?",
+   "armenian": "Բարեւ Սօնա։ Ո՞ւր կ'երթաս։",
+   "meaning": "Hi Sona. Where are you going?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "ddaabb8bfc"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Dun gertam. Tun?",
+   "armenian": "Տուն կ'երթամ։ Դո՞ւն։",
+   "meaning": "I'm going home. You?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "9b0331f52f"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ararad jasharane gertam. Hedes ge kas?",
+   "armenian": "Արարատ ճաշարանը կ'երթամ։ Հետս կու գա՞ս։",
+   "meaning": "I'm going to the Ararat restaurant. Will you come with me?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "a932ad60b6"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ays kisher?",
+   "armenian": "Այս գիշե՞ր։",
+   "meaning": "Tonight?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "3f25fa3c7b"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ayo, ays kisher, zhame utin.",
+   "armenian": "Այո, այս գիշեր, ժամը ութին։",
+   "meaning": "Yes, tonight, at eight.",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "460b379297"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Lav. Jasharane ur é?",
+   "armenian": "Լաւ։ Ճաշարանը ո՞ւր է։",
+   "meaning": "Okay. Where's the restaurant?",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "60c0c76d1e"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Shidag gertas, hedo tsakh.",
+   "armenian": "Շիտակ կ'երթաս, յետոյ ձախ։",
+   "meaning": "You go straight, then left.",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "0223bc7d39"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Shad lav. Ertank!",
+   "armenian": "Շատ լաւ։ Երթանք։",
+   "meaning": "Very good. Let's go!",
+   "piece": false,
+   "pause": false,
+   "dialog": true,
+   "part": "Part 1 — Opening conversation",
+   "id": "34be4acce2"
+  },
+  {
+   "type": "narrator",
+   "text": "Aram asked Sona where she was going. Listen.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ur gertas?",
+   "armenian": "Ո՞ւր կ'երթաս։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "8741d714ba"
+  },
+  {
+   "type": "narrator",
+   "text": "\"You're going,\" to a friend, is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "gertas",
+   "armenian": "կ'երթաս",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "51eb5974b6"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "tas",
+   "piece": true,
+   "word": "gertas",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "6849a273c4"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "gertas",
+   "piece": true,
+   "word": "gertas",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "51eb5974b6"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "gertas",
+   "piece": true,
+   "word": "gertas",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "51eb5974b6"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"Where are you going?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ur gertas?",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "8741d714ba"
+  },
+  {
+   "type": "narrator",
+   "text": "\"I'm going\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "gertam",
+   "armenian": "կ'երթամ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "d4a046ff0e"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "gertam",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "d4a046ff0e"
+  },
+  {
+   "type": "narrator",
+   "text": "Sona said, \"I'm going home.\" \"Home\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "dun",
+   "armenian": "տուն",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "0778c4d943"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "dun",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "0778c4d943"
+  },
+  {
+   "type": "narrator",
+   "text": "In Armenian you just say \"home I'm going.\" Say, \"I'm going home.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Dun gertam.",
+   "armenian": "Տուն կ'երթամ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "c62c37080d"
+  },
+  {
+   "type": "narrator",
+   "text": "Tell your friend, \"I'm going to the Ararat restaurant.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ararad jasharane gertam.",
+   "armenian": "Արարատ ճաշարանը կ'երթամ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "b52c854a98"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"Are you going home?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Dun gertas?",
+   "armenian": "Տուն կ'երթա՞ս։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "cbcb535021"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"No, not me.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Voch, voch yes.",
+   "armenian": "Ոչ, ոչ ես։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 2 — \"Going\"",
+   "id": "d60683e6a9"
+  },
+  {
+   "type": "narrator",
+   "text": "Aram asked Sona to come with him. You know \"with me.\" Say it.",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "hedes",
+   "armenian": "հետս",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Come with me\"",
+   "id": "9e5f952429"
+  },
+  {
+   "type": "narrator",
+   "text": "\"You come,\" or \"you'll come,\" to a friend, is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "ge kas",
+   "armenian": "կու գաս",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Come with me\"",
+   "id": "0431f7c8a9"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "kas",
+   "piece": true,
+   "word": "ge kas",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 3 — \"Come with me\"",
+   "id": "21313a463d"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "ge kas",
+   "piece": true,
+   "word": "ge kas",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 3 — \"Come with me\"",
+   "id": "0431f7c8a9"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"Will you come with me?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Hedes ge kas?",
+   "armenian": "Հետս կու գա՞ս։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Come with me\"",
+   "id": "a02762033a"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Yes, I'll come.\" \"I'll come\" is \"ge kam.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ayo, ge kam.",
+   "armenian": "Այո, կու գամ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Come with me\"",
+   "id": "980b319cb6"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat \"I'll come.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "ge kam",
+   "armenian": "կու գամ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Come with me\"",
+   "id": "dbf77a2ab7"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"Will you come together?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Miasin ge kas?",
+   "armenian": "Միասին կու գա՞ս։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Come with me\"",
+   "id": "779aa36885"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Yes, but later.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ayo, payts hedo.",
+   "armenian": "Այո, բայց յետոյ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 3 — \"Come with me\"",
+   "id": "30938314ff"
+  },
+  {
+   "type": "narrator",
+   "text": "Sona asked, \"Tonight?\" \"Tonight\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "ays kisher",
+   "armenian": "այս գիշեր",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Tonight\"",
+   "id": "0c8fa3bbbc"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "kisher",
+   "piece": true,
+   "word": "ays kisher",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"Tonight\"",
+   "id": "3747543e03"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "ays kisher",
+   "piece": true,
+   "word": "ays kisher",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"Tonight\"",
+   "id": "0c8fa3bbbc"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "ays kisher",
+   "piece": true,
+   "word": "ays kisher",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 4 — \"Tonight\"",
+   "id": "0c8fa3bbbc"
+  },
+  {
+   "type": "narrator",
+   "text": "\"Ays\" means \"this,\" and \"kisher\" means \"night.\" Ask, \"Tonight?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ays kisher?",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Tonight\"",
+   "id": "3f25fa3c7b"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Yes, tonight, at eight.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ayo, ays kisher, zhame utin.",
+   "armenian": "Այո, այս գիշեր, ժամը ութին։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Tonight\"",
+   "id": "460b379297"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"Do you want to eat together tonight?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Ays kisher miasin udel guzes?",
+   "armenian": "Այս գիշեր միասին ուտել կ'ուզե՞ս։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Tonight\"",
+   "id": "64e6ae625f"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Not tonight. Tomorrow.\" You know \"tomorrow.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ays kisher voch. Vaghe.",
+   "armenian": "Այս գիշեր ոչ։ Վաղը։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Tonight\"",
+   "id": "7dbf60f349"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask, \"Tomorrow at what time?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Vaghe zhame kaniin?",
+   "armenian": "Վաղը ժամը քանիի՞ն։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Tonight\"",
+   "id": "c32c5726e4"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"At nine.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Zhame innin.",
+   "armenian": "Ժամը իննին։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 4 — \"Tonight\"",
+   "id": "f70f5097b9"
+  },
+  {
+   "type": "narrator",
+   "text": "Sona asked where the restaurant was. Ask, \"Where's the restaurant?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Jasharane ur é?",
+   "armenian": "Ճաշարանը ո՞ւր է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — \"Straight\" and \"then\"",
+   "id": "72977dbfcc"
+  },
+  {
+   "type": "narrator",
+   "text": "Aram said, \"You go straight, then left.\" \"Straight\" is…",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "shidag",
+   "armenian": "շիտակ",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — \"Straight\" and \"then\"",
+   "id": "d9f58f22d0"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "dag",
+   "piece": true,
+   "word": "shidag",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 5 — \"Straight\" and \"then\"",
+   "id": "e134adc54f"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "shidag",
+   "piece": true,
+   "word": "shidag",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 5 — \"Straight\" and \"then\"",
+   "id": "d9f58f22d0"
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "shidag",
+   "piece": true,
+   "word": "shidag",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 5 — \"Straight\" and \"then\"",
+   "id": "d9f58f22d0"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"You go straight.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Shidag gertas.",
+   "armenian": "Շիտակ կ'երթաս։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — \"Straight\" and \"then\"",
+   "id": "6dd7da3848"
+  },
+  {
+   "type": "narrator",
+   "text": "You know \"hedo\" means \"later.\" It also means \"then,\" as in \"and then.\" Say, \"Straight, then left.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Shidag, hedo tsakh.",
+   "armenian": "Շիտակ, յետոյ ձախ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — \"Straight\" and \"then\"",
+   "id": "b270efa73f"
+  },
+  {
+   "type": "narrator",
+   "text": "Now say, \"You go straight, then right.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Shidag gertas, hedo ach.",
+   "armenian": "Շիտակ կ'երթաս, յետոյ աջ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — \"Straight\" and \"then\"",
+   "id": "d4bbd0fc4d"
+  },
+  {
+   "type": "narrator",
+   "text": "Your friend asks if the restaurant is far. Tell her, \"No, it's close. Straight, then left.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Voch, mod é. Shidag, hedo tsakh.",
+   "armenian": "Ոչ, մօտ է։ Շիտակ, յետոյ ձախ։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 5 — \"Straight\" and \"then\"",
+   "id": "625aefbe51"
+  },
+  {
+   "type": "narrator",
+   "text": "At the end, Sona said, \"Let's go!\"",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ertank!",
+   "armenian": "Երթանք։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 6 — \"Let's go\"",
+   "id": "1649a01ae9"
+  },
+  {
+   "type": "narrator",
+   "text": "Repeat each part, starting from the end.",
+   "pause": false
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "tank",
+   "piece": true,
+   "word": "Ertank!",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 6 — \"Let's go\"",
+   "id": "b63ae12fe3"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "ertank",
+   "piece": true,
+   "word": "Ertank!",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 6 — \"Let's go\"",
+   "id": "1649a01ae9"
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ertank!",
+   "piece": true,
+   "word": "Ertank!",
+   "pause": true,
+   "dialog": false,
+   "part": "Part 6 — \"Let's go\"",
+   "id": "1649a01ae9"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"Let's go together.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Miasin ertank.",
+   "armenian": "Միասին երթանք։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 6 — \"Let's go\"",
+   "id": "a1dfb90e62"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"Let's go home.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Dun ertank.",
+   "armenian": "Տուն երթանք։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 6 — \"Let's go\"",
+   "id": "9c42c2c15c"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"Okay, let's go.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Lav, ertank.",
+   "armenian": "Լաւ, երթանք։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 6 — \"Let's go\"",
+   "id": "83c61bc674"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask your friend, \"How much is a coffee?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Surj me kani é?",
+   "armenian": "Սուրճ մը քանի՞ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Review",
+   "id": "4f66312235"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Fifteen dollars.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Dasnehink dolar.",
+   "armenian": "Տասնըհինգ տոլար։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Review",
+   "id": "1e7894a1d0"
+  },
+  {
+   "type": "narrator",
+   "text": "Say, \"That's very expensive!\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Shad sugh é!",
+   "armenian": "Շատ սուղ է։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Review",
+   "id": "992c346151"
+  },
+  {
+   "type": "narrator",
+   "text": "Ask, \"Where are you going?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ur gertas?",
+   "armenian": "",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Review",
+   "id": "8741d714ba"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"I'm going home. Will you come with me?\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "M",
+   "translit": "Dun gertam. Hedes ge kas?",
+   "armenian": "Տուն կ'երթամ։ Հետս կու գա՞ս։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Review",
+   "id": "15b74412a4"
+  },
+  {
+   "type": "narrator",
+   "text": "Answer, \"Yes. Let's go together.\"",
+   "pause": true
+  },
+  {
+   "type": "say",
+   "who": "W",
+   "translit": "Ayo. Miasin ertank.",
+   "armenian": "Այո։ Միասին երթանք։",
+   "meaning": "",
+   "piece": false,
+   "pause": false,
+   "dialog": false,
+   "part": "Part 7 — Review",
+   "id": "63cf4964be"
+  },
+  {
+   "type": "narrator",
+   "text": "Listen to the conversation from the start of the lesson one more time.",
+   "pause": false
+  },
+  {
+   "type": "replay_dialog"
+  },
+  {
+   "type": "narrator",
+   "text": "This is the end of Lesson 13.",
+   "pause": false
+  }
+ ]
+}
