@@ -248,29 +248,56 @@ textarea{min-height:90px}
   $("review").onclick = () => { state.pos = 0; save(); show("work"); render(); };
 
   // ---- recording ----
-  let stream = null, recorder = null, chunks = [], player = null;
+  // iPhone note: once Safari plays audio back, it can silently switch off a microphone
+  // that was left open, so the next recording comes out empty. So the microphone is
+  // switched on fresh for every recording and released as soon as it stops.
+  let stream = null, recorder = null, chunks = [];
+  const player = new Audio();
+  player.setAttribute("playsinline", "");
+  let playerUrl = null;
   function mimeType(){
     if (!window.MediaRecorder) return "";
     for (const t of ["audio/mp4","audio/webm;codecs=opus","audio/webm"])
       if (MediaRecorder.isTypeSupported && MediaRecorder.isTypeSupported(t)) return t;
     return "";
   }
+  function releaseMic(){
+    if (stream) { stream.getTracks().forEach(t => t.stop()); stream = null; }
+  }
+  // Checks a recording can actually be played before keeping it.
+  function playable(blob){
+    return new Promise(res => {
+      const a = document.createElement("audio");
+      const url = URL.createObjectURL(blob);
+      let done = false;
+      const fin = ok => { if (done) return; done = true; URL.revokeObjectURL(url); res(ok); };
+      a.preload = "metadata";
+      a.onloadedmetadata = () => fin(true);
+      a.onerror = () => fin(false);
+      setTimeout(() => fin(true), 3000);  // some phones never report; don't hold things up
+      a.src = url;
+      a.load();
+    });
+  }
   async function startRec(){
+    stopPlayback();
+    releaseMic();
     try {
-      if (!stream) stream = await navigator.mediaDevices.getUserMedia({audio:{echoCancellation:true,noiseSuppression:true}});
+      stream = await navigator.mediaDevices.getUserMedia({audio:true});
     } catch(e) {
       status("The microphone is blocked. Please allow microphone access for this page (in Safari: tap “aA” in the address bar → Website Settings → Microphone → Allow), then try again.");
       return;
     }
-    stopPlayback();
     chunks = [];
     const mt = mimeType();
     recorder = mt ? new MediaRecorder(stream, {mimeType: mt}) : new MediaRecorder(stream);
     const id = current.id;
     recorder.ondataavailable = e => { if (e.data && e.data.size) chunks.push(e.data); };
     recorder.onstop = async () => {
+      releaseMic();
       const blob = new Blob(chunks, {type: recorder.mimeType || mt || "audio/mp4"});
       if (blob.size < 1500) { status("That was too short. Try again: tap, say the phrase, then tap again."); render(); return; }
+      if (!(await playable(blob))) { status("Sorry, that one didn't record properly. Please tap Record and try again."); render(); return; }
       await putAudio(id, blob);
       state.recorded[id] = Date.now(); save();
       status("");
@@ -291,11 +318,14 @@ textarea{min-height:90px}
   }
   $("rec").onclick = () => (recorder && recorder.state === "recording") ? stopRec() : startRec();
 
-  function stopPlayback(){ if (player) { player.pause(); player = null; } }
+  function stopPlayback(){ try { player.pause(); } catch(e){} }
   function playBlob(blob){
     stopPlayback();
-    player = new Audio(URL.createObjectURL(blob));
-    player.play().catch(()=>{});
+    if (playerUrl) URL.revokeObjectURL(playerUrl);
+    playerUrl = URL.createObjectURL(blob);
+    player.src = playerUrl;
+    player.load();
+    player.play().catch(() => status("Tap ▶ Play to hear it."));
   }
   $("play").onclick = async () => {
     const b = await getAudio(current.id);
